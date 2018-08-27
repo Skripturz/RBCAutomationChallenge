@@ -19,11 +19,11 @@ public class ExtentReportFactory {
 	public static synchronized ExtentReports getReporter() {
 
 		String workspace = ((new File(".").getAbsolutePath()).replace("\\", "/")).replace(".", "");
-		String fileName = workspace + "src/test/resources/extent_config.xml";
-		File file = new File(fileName);
+		//String fileName = workspace + "src/test/resources/extent_config.xml";
+		//File file = new File(fileName);
 		if (reporter == null) {
 			htmlReporter = new ExtentHtmlReporter(Constant.REPORTPATH);
-			htmlReporter.loadXMLConfig(file);
+			//htmlReporter.loadXMLConfig(file);
 			reporter = new ExtentReports();
 			reporter.attachReporter(htmlReporter);
 			reporter.setSystemInfo("Author", "Rohit");

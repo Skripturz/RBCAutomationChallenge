@@ -1,0 +1,47 @@
+00:29:01.887 [main] INFO  com.demo.automation.testcases.PurchaseTest - Confirmed: items are in cart
+00:29:01.894 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 5: After confirming, click on Continue
+00:29:02.076 [main] INFO  com.demo.automation.testcases.PurchaseTest - clicked continue
+00:29:02.077 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+00:29:03.020 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered email: RohitK@testmail.com
+00:29:03.189 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered first name: Rohit
+00:29:03.336 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered last name: Kumar
+00:29:03.473 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered address: 60 Palomino Drive
+00:29:03.653 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered city: Mississauga
+00:29:03.798 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered state: Ontario
+00:29:03.952 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered country: Canada
+00:29:04.105 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered postal code: K1S5B7
+00:29:04.324 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered phone number: 6472897684
+00:29:04.444 [main] INFO  com.demo.automation.testcases.PurchaseTest - Same as billing address(saba) = true
+00:29:22.154 [main] INFO  com.demo.automation.testcases.PurchaseTest - Clicked purchase
+00:29:22.154 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+00:29:22.180 [main] INFO  com.demo.automation.testcases.PurchaseTest - Confirming Order...
+00:29:22.238 [main] INFO  com.demo.automation.testcases.PurchaseTest - Transaction Results | ONLINE STORE
+00:29:22.238 [main] INFO  com.demo.automation.testcases.PurchaseTest - Confirmed: order placed!
+00:29:22.310 [main] INFO  com.demo.automation.testcases.PurchaseTest - Browser Closed
+03:00:52.544 [main] INFO  com.demo.automation.testcases.PurchaseTest - Driver is Initialized
+03:00:52.717 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 1: go to url
+03:00:57.460 [main] INFO  com.demo.automation.testcases.PurchaseTest - Navigated to url: http://store.demoqa.com/
+03:00:57.528 [main] INFO  com.demo.automation.testcases.PurchaseTest - Initialized page objects
+03:00:57.528 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 2: Go to Product category and select Accessories
+03:00:57.769 [main] INFO  com.demo.automation.testcases.PurchaseTest - Is Accessories displayed? true
+03:01:03.151 [main] INFO  com.demo.automation.testcases.PurchaseTest - Clicked on Accessories
+03:01:03.870 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 3: Click on “Add to Cart” for just Magic Mouse
+03:01:04.350 [main] INFO  com.demo.automation.testcases.PurchaseTest - Added item: Magic Mouse x1
+03:01:04.351 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page
+03:01:04.351 [main] INFO  com.demo.automation.testcases.PurchaseTest - waiting until the cart updates before continuing
+03:01:12.620 [main] INFO  com.demo.automation.testcases.PurchaseTest - Number of items in cart: 1
+03:01:16.434 [main] INFO  com.demo.automation.testcases.PurchaseTest - Is the item in the cart with correct quantity? : true
+03:01:16.516 [main] INFO  com.demo.automation.testcases.PurchaseTest - Confirmed: items are in cart
+03:01:16.516 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 5: After confirming, click on Continue
+03:01:16.761 [main] INFO  com.demo.automation.testcases.PurchaseTest - clicked continue
+03:01:16.762 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+03:01:17.460 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered email: RohitK@testmail.com
+03:01:17.515 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered first name: Rohit
+03:01:17.551 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered last name: Kumar
+03:01:17.599 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered address: 60 Palomino Drive
+03:01:17.639 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered city: Mississauga
+03:01:17.683 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered state: Ontario
+03:01:18.059 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered country: Canada
+03:01:18.082 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered postal code: K1S5B7
+03:01:18.115 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered phone number: 6472897684
+03:01:18.388 [main] INFO  com.demo.automation.testcases.PurchaseTest - Same as billing address(saba) = true

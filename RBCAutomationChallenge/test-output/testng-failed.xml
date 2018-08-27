@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RBC Test Cases]">
+  <test thread-count="5" name="Magic Mouse - Purchase Test(failed)">
+    <classes>
+      <class name="com.demo.automation.testcases.PurchaseTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="purchaseMagicMouse"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- com.demo.automation.testcases.PurchaseTest -->
+    </classes>
+  </test> <!-- Magic Mouse - Purchase Test(failed) -->
+</suite> <!-- Failed suite [RBC Test Cases] -->

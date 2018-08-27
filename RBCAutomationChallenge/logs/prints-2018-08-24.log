@@ -1,0 +1,47 @@
+16:13:25.675 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 1: go to url
+16:13:33.759 [main] INFO  com.demo.automation.testcases.PurchaseTest - Navigated to url: http://store.demoqa.com/
+16:13:33.868 [main] INFO  com.demo.automation.testcases.PurchaseTest - Initialized page objects
+16:13:34.005 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 2: Go to Product category and select Accessories
+16:13:56.549 [main] INFO  com.demo.automation.testcases.PurchaseTest - Clicked on Accessories
+16:13:56.630 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 3: Click on “Add to Cart” for just Magic Mouse
+16:13:57.010 [main] INFO  com.demo.automation.testcases.PurchaseTest - Added item: Magic Mouse x1
+16:13:57.011 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page
+16:14:20.535 [main] INFO  com.demo.automation.testcases.PurchaseTest - Confirmed: items are in cart
+16:14:20.536 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 5: After confirming, click on Continue
+16:14:20.658 [main] INFO  com.demo.automation.testcases.PurchaseTest - clicked continue
+16:14:20.659 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+16:14:21.453 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered email: RohitK@testmail.com
+16:14:21.624 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered first name: Rohit
+16:14:21.764 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered last name: Kumar
+16:14:21.913 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered address: 60 Palomino Drive
+16:14:22.131 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered city: Mississauga
+16:14:22.290 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered state: Ontario
+16:14:22.493 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered country: Canada
+16:14:22.657 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered postal code: K1S5B7
+16:14:22.873 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered phone number: 6472897684
+16:14:23.019 [main] INFO  com.demo.automation.testcases.PurchaseTest - Same as billing address(saba) = true
+16:16:01.768 [main] INFO  com.demo.automation.testcases.PurchaseTest - Driver is Initialized
+16:16:01.868 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 1: go to url
+16:16:07.131 [main] INFO  com.demo.automation.testcases.PurchaseTest - Navigated to url: http://store.demoqa.com/
+16:16:07.196 [main] INFO  com.demo.automation.testcases.PurchaseTest - Initialized page objects
+16:16:07.319 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 2: Go to Product category and select Accessories
+16:16:17.286 [main] INFO  com.demo.automation.testcases.PurchaseTest - Clicked on Accessories
+16:16:17.325 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 3: Click on “Add to Cart” for just Magic Mouse
+16:16:17.497 [main] INFO  com.demo.automation.testcases.PurchaseTest - Added item: Magic Mouse x1
+16:16:17.498 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page
+16:16:30.694 [main] INFO  com.demo.automation.testcases.PurchaseTest - Confirmed: items are in cart
+16:16:30.694 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 5: After confirming, click on Continue
+16:16:30.792 [main] INFO  com.demo.automation.testcases.PurchaseTest - clicked continue
+16:16:30.793 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+16:16:31.455 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered email: RohitK@testmail.com
+16:16:31.582 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered first name: Rohit
+16:16:31.688 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered last name: Kumar
+16:16:31.810 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered address: 60 Palomino Drive
+16:16:31.966 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered city: Mississauga
+16:16:32.085 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered state: Ontario
+16:16:32.212 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered country: Canada
+16:16:32.321 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered postal code: K1S5B7
+16:16:32.461 [main] INFO  com.demo.automation.testcases.PurchaseTest - entered phone number: 6472897684
+16:16:32.539 [main] INFO  com.demo.automation.testcases.PurchaseTest - Same as billing address(saba) = true
+16:16:49.981 [main] INFO  com.demo.automation.testcases.PurchaseTest - Clicked purchase
+16:16:49.982 [main] INFO  com.demo.automation.testcases.PurchaseTest - STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page

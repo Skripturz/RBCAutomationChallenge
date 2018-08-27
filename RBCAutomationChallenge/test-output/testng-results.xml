@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="RBC Test Cases" duration-ms="44439" started-at="2018-08-27T07:04:09Z" finished-at="2018-08-27T07:04:53Z">
+  <suite name="RBC Test Cases" duration-ms="36076" started-at="2018-08-27T15:12:04Z" finished-at="2018-08-27T15:12:40Z">
     <groups>
     </groups>
-    <test name="Magic Mouse - Purchase Test" duration-ms="44439" started-at="2018-08-27T07:04:09Z" finished-at="2018-08-27T07:04:53Z">
+    <test name="Magic Mouse - Purchase Test" duration-ms="36076" started-at="2018-08-27T15:12:04Z" finished-at="2018-08-27T15:12:40Z">
       <class name="com.demo.automation.testcases.PurchaseTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.demo.automation.testcases.PurchaseTest@313ac989]" name="initialize" is-config="true" duration-ms="5101" started-at="2018-08-27T07:04:10Z" finished-at="2018-08-27T07:04:15Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.demo.automation.testcases.PurchaseTest@313ac989]" name="initialize" is-config="true" duration-ms="4638" started-at="2018-08-27T15:12:04Z" finished-at="2018-08-27T15:12:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="purchaseMagicMouse(java.lang.String, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.testcases.PurchaseTest@313ac989]" name="purchaseMagicMouse" duration-ms="37607" started-at="2018-08-27T07:04:15Z" data-provider="getData" finished-at="2018-08-27T07:04:53Z">
+        <test-method status="PASS" signature="purchaseMagicMouse(java.lang.String, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.demo.automation.testcases.PurchaseTest@313ac989]" name="purchaseMagicMouse" duration-ms="29889" started-at="2018-08-27T15:12:09Z" data-provider="getData" finished-at="2018-08-27T15:12:39Z">
           <params>
             <param index="0">
               <value>
@@ -77,7 +77,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- purchaseMagicMouse -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.demo.automation.testcases.PurchaseTest@313ac989]" name="tearDown" is-config="true" duration-ms="698" started-at="2018-08-27T07:04:53Z" finished-at="2018-08-27T07:04:53Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.demo.automation.testcases.PurchaseTest@313ac989]" name="tearDown" is-config="true" duration-ms="666" started-at="2018-08-27T15:12:39Z" finished-at="2018-08-27T15:12:40Z">
           <params>
             <param index="0">
               <value>
